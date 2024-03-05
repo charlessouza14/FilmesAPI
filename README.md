@@ -1,1 +1,1 @@
-# FilmesAPI
+Neste projeto aprendi e pratiquei bastante como definir uma rota, como definir um controller da nossa API, as extensões que devemos fazer, a utilização do construtor para fazer injeção de dependência, a criação das actions e utilização do AutorMapper.
